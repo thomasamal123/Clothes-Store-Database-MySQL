@@ -2,17 +2,17 @@
 
 This project is a MySQL database for a clothing store, created as part of a Database Design and Implementation module.
 
-## 📂 Project Contents
+## Project Contents
 - **/sql** – Contains `.sql` files for each table in the database.
 
-## 🛠️ Database Structure
+##  Database Structure
 The database includes:
 - Customers and their Addresses
 - Products and Product Categories
 - Orders and Ordered Items
 - Payments, Reviews, Stock, and Delivery
 
-## 🚀 How to Import
+##  How to Import
 1. Open phpMyAdmin.
 2. Create a new database named `clothes`.
 3. Import the SQL files in the following order:
