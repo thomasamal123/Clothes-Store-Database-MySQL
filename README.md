@@ -28,4 +28,4 @@ The database includes:
    10. `delivery.sql`
 
 ---
-📄 Ensure to check foreign key constraints when importing in the correct sequence.
+ Ensure to check foreign key constraints when importing in the correct sequence.
